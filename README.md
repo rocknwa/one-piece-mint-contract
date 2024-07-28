@@ -138,7 +138,7 @@ To deploy the contract, follow these steps:
 
 - Ensure proper access controls with the Ownable contract to restrict certain functions to the contract owner.
 - Use `require` statements to validate inputs and prevent unauthorized actions.
-- Follow best practices for Solidity development, such as avoiding reentrancy attacks and ensuring proper use of visibility specifiers.
+- Follow best practices for Solidity development, such as ensuring proper use of visibility specifiers.
 
 ## Future Enhancements
 
